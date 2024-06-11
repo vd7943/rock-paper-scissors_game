@@ -1,1 +1,1 @@
-# rock-paper-scissors_gmae
+# rock-paper-scissors_game
